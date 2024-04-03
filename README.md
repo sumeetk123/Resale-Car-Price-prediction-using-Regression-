@@ -1,4 +1,6 @@
 ## Used Car Price prediction using Regression
 
-![output-onlinepngtools](https://github.com/sumeetk123/Resale-Car-Price-prediction-using-Regression-/assets/105230723/79c93209-4e34-4aa6-af88-28d134ef8b53)
+![car3](https://github.com/sumeetk123/Resale-Car-Price-prediction-using-Regression-/assets/105230723/522c0617-fa98-4dc3-b3ad-e29bc931983a)
+
+
 
