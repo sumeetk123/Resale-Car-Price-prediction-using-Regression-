@@ -44,7 +44,7 @@ The dataset provides a comprehensive view of used car details. Each feature of t
 Access the dataset on Kaggle [here](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho).
 
 ## 📁 File Descriptions
-- 📓 **`?.ipynb`**: The Jupyter notebook containing our analysis, preprocessing, and modeling steps.
+- 📓 **`Polynomial_Regression_and_Regularization.ipynb`**: The Jupyter notebook containing our analysis, preprocessing, and modeling steps.
 - 📄 **`cardata.csv`**: The primary CSV file containing all the car data.
 - 📘 **`README.md`**: This file, serving as a guide to the project.
 
